@@ -1,0 +1,3 @@
+yellow		#fcd116
+blue		#168eba
+red		#cb444e
